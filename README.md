@@ -18,11 +18,12 @@ The goal of FinoSpark AI is to:
 
 ## 🚀 Key Features
 
-- RESTful backend APIs built with Node.js and Express
-- Frontend dashboard for interacting with application outputs
-- AI logic integration for intelligent data processing
-- Modular code structure for frontend and backend separation
-- API testing and debugging for reliable data flow
+- Provides AI-driven financial insights through a web-based dashboard
+
+- Allows users to submit data and view processed results in real time
+
+- Offers a simple and responsive interface for interacting with financial information
+
 
 ---
 
