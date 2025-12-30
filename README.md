@@ -48,17 +48,6 @@ The goal of FinoSpark AI is to:
 
 ---
 
-## 📁 Project Structure
-FinoSparkAi/
-│
-├── finospark-dashboard/ # Frontend dashboard (React + TypeScript)
-├── uploadimage/ # Backend APIs (Node.js + Express)
-├── START.md # Setup and starter notes
-└── README.md # Project documentation
-
-
----
-
 ## 🛠️ Installation & Setup
 
 ### 1️⃣ Clone the repository
