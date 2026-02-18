@@ -1,6 +1,7 @@
 # FinoSpark AI
 
 FinoSpark AI is a full-stack application designed to explore AI-driven financial insights through a modern web interface and scalable backend APIs. The project focuses on integrating backend services with AI-based processing while following clean architecture and modular design principles.
+Link- https://finospark-finance.onrender.com/
 
 This project demonstrates backend API development, frontend dashboard integration, and AI workflow handling in a real-world styled application.
 
