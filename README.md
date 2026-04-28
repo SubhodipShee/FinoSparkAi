@@ -7,6 +7,8 @@
 
 **FinoSpark AI** is a cutting-edge personal finance cockpit that leverages Google Gemini to transform how you track, analyze, and optimize your financial life. Featuring a sleek neon-green aesthetic, it combines a powerful Next.js dashboard with a high-performance FastAPI backend for image-based receipt analysis.
 
+🏆 **MumbaiHacks 2026:** Secured a spot in the **Top 10%** of teams.
+
 🔗 **Live Demo:** [finospark-finance.onrender.com](https://finospark-finance.onrender.com/)
 
 ---
@@ -92,7 +94,6 @@ uvicorn app.main:app --reload
 
 ---
 
-<p align="center">Built with 💚 by <a href="https://github.com/SubhodipShee">Subhodip Shee</a></p>
 
 
 ---
