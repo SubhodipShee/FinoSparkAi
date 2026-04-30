@@ -20,6 +20,9 @@
 - **Smart Budgeting:** Track credits vs. debits with interactive bar charts.
 - **Goal Planner:** Plan and monitor your investment goals.
 
+### 🏗️ Architecture
+For a detailed look at the system design and data flow, see [ARCHITECTURE.md](ARCHITECTURE.md).
+
 ### 🤖 AI Finance Advisor
 - **Gemini Engine:** Powered by Google's generative AI for spending summaries, future predictions, and personalized advice.
 - **AI Chat Panel:** Interact with a financial specialist bot for instant insights.
